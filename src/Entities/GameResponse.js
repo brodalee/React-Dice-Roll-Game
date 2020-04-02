@@ -11,3 +11,4 @@ class GameResponse {
         return new this(id, winner, score, forscore, turnnumber);
     }
 }
+export default GameResponse
