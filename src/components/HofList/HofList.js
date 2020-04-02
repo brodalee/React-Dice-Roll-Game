@@ -8,7 +8,7 @@ const HofList = ({listOfGameResponse}) => {
               <div
                   className="offset-md-3 col-md-5"
                   key={object.id}>
-                  {object.winner} won in {object.turnPlayed} turns for a score of {object.forscore} pts ({object.score} pts).
+                  {object.winner} won in {object.turnnumber} turns for a score of {object.forscore} pts ({object.score} pts).
               </div>
           )}
       </div>
