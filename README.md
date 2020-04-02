@@ -15,3 +15,10 @@
 ## Hall of frame
 
 Vous pourrez voir une rapide vue sur les parties qui ont déjà été joués, et envoyés au serveur.
+
+## Installation 
+
+- Installez node.js
+- Clonez le projet
+- Executez `npm install`
+- Démarrez le projet avec `npm start`
